@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "pip-tools",
+  "versions": [
+    {
+      "commit": "4492554a38e325db6ae623bf0c81cde17138120f",
+      "tag": "v7.6.2",
+      "parsed_at": "2026-10-10T19:17:02.882742+00:00"
+    }
+  ]
+}
