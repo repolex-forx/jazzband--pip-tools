@@ -3,6 +3,11 @@
   "repo": "pip-tools",
   "versions": [
     {
+      "commit": "5f31d8a79b5fd16305372cf700b01cc7f16c2ccf",
+      "tag": "v7.5.3",
+      "parsed_at": "2026-11-22T06:37:51.349704+00:00"
+    },
+    {
       "commit": "4492554a38e325db6ae623bf0c81cde17138120f",
       "tag": "v7.6.2",
       "parsed_at": "2026-10-10T19:17:02.882742+00:00"
